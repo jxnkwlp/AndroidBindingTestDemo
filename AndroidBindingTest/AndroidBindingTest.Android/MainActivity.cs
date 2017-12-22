@@ -25,9 +25,11 @@ namespace AndroidBindingTest.Droid
 
 
 
+            var app = new App();
+
             UserDialogs.Init(this);
 
-            LoadApplication(new App());
+            LoadApplication(app);
         }
     }
 }

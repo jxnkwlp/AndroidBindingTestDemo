@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBindingTest.Android"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AndroidBindingTest", "AndroidBindingTest\AndroidBindingTest\AndroidBindingTest.csproj", "{231A7CAF-3FC8-4E8A-97EE-21237ECE25FC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Binding_AndroidPickerView", "AndroidBindingTest\AndroidBindingTest.Android\AndroidBindings\Binding_AndroidPickerView\Binding_AndroidPickerView.csproj", "{9D3652BB-719C-49CB-B1BF-9FD196995FFA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,6 +25,10 @@ Global
 		{231A7CAF-3FC8-4E8A-97EE-21237ECE25FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{231A7CAF-3FC8-4E8A-97EE-21237ECE25FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{231A7CAF-3FC8-4E8A-97EE-21237ECE25FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9D3652BB-719C-49CB-B1BF-9FD196995FFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D3652BB-719C-49CB-B1BF-9FD196995FFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D3652BB-719C-49CB-B1BF-9FD196995FFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D3652BB-719C-49CB-B1BF-9FD196995FFA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

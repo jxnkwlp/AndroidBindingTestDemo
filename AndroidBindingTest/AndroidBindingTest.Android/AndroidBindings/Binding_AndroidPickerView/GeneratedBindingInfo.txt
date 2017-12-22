@@ -1,0 +1,6 @@
+Binding for:
+com.contrarywind:Android-PickerView:3.2.7
+
+Dependencies:
+
+Android-PickerView-3.2.7.aar,    Path=C:\Users\admin\.gradle\caches\modules-2\files-2.1\com.contrarywind\Android-PickerView\3.2.7\478d0b0203548cd47e44532639c53bd25ba06086\Android-PickerView-3.2.7.aar

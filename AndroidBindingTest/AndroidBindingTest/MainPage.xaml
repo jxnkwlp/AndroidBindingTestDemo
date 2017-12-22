@@ -4,8 +4,15 @@
              xmlns:local="clr-namespace:AndroidBindingTest"
              x:Class="AndroidBindingTest.MainPage">
 
-	<Label Text="Welcome to Xamarin.Forms!" 
-           VerticalOptions="Center" 
-           HorizontalOptions="Center" />
+
+    <ContentPage.Content>
+        <StackLayout>
+
+            <Button Text="DateTime Picker" Clicked="Button1_Clicked" />
+
+            <Button Text="Options Picker" Clicked="Button2_Clicked" />
+
+        </StackLayout>
+    </ContentPage.Content>
 
 </ContentPage>
